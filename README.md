@@ -1,9 +1,15 @@
-#CryptoStar Dapp on Ethereum
+# CryptoStar Dapp on Ethereum
+
 Network used: Ropsten
+
 Truffle version: 5.4.22
+
 OpenZeppelin version: 4.4.0
+
 ERC-721 Token Name: Night Diamond Token
+
 ERC-721 Token Symbol: NDT
+
 Token Address: 0x27B50ABB54f63757E7cDc846A249b1b78fd3A7c6
 
 
